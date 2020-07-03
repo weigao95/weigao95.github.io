@@ -5,12 +5,28 @@
     <link>https://weigao95.github.io/author/russ-tedrake/</link>
       <atom:link href="https://weigao95.github.io/author/russ-tedrake/index.xml" rel="self" type="application/rss+xml" />
     <description>Russ Tedrake</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://weigao95.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Russ Tedrake</title>
       <link>https://weigao95.github.io/author/russ-tedrake/</link>
     </image>
+    
+    <item>
+      <title>kPAM 2.0: Feedback Control for Category-Level Robotic Manipulation</title>
+      <link>https://weigao95.github.io/publication/ral20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/publication/ral20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kPAM: KeyPoint Affordances for Category-Level Robotic Manipulation</title>
+      <link>https://weigao95.github.io/publication/isrr19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/publication/isrr19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization</title>

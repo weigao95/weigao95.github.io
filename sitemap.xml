@@ -3,42 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://weigao95.github.io/publication-type/1/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>https://weigao95.github.io/publication-type/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/authors/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://weigao95.github.io/publication/cvpr19/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>https://weigao95.github.io/publication/ral20/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/publication_types/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/publication/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/author/russ-tedrake/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/author/wei-gao/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication-type/1/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/isrr19/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/lucas-manuelli/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/peter-florence/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/cvpr19/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,11 +110,6 @@
   <url>
     <loc>https://weigao95.github.io/publication/aim17/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/publication-type/2/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,6 +164,10 @@
   
   <url>
     <loc>https://weigao95.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/papers/</loc>
   </url>
   
   <url>
