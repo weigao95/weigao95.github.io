@@ -3,12 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://weigao95.github.io/publication-type/2/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <loc>https://weigao95.github.io/publication-type/1/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/authors/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/cvpr19/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication_types/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/russ-tedrake/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/wei-gao/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/rss18/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/cdc17/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/liting-sun/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/masayoshi-tomizuka/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/ifac17/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/wenjie-chen/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/yongxiang-fan/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/minghui-zheng/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication/aim17/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/publication-type/2/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,32 +103,12 @@
   </url>
   
   <url>
-    <loc>https://weigao95.github.io/publication_types/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/publication/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://weigao95.github.io/tag/source-themes/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://weigao95.github.io/tags/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/author/wei-gao/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,21 +143,6 @@
   </url>
   
   <url>
-    <loc>https://weigao95.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weigao95.github.io/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://weigao95.github.io/categories/</loc>
   </url>
   
@@ -107,6 +152,10 @@
   
   <url>
     <loc>https://weigao95.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weigao95.github.io/author/wei-gao/</loc>
   </url>
   
 </urlset>
