@@ -7,10 +7,53 @@
     <description>Wei Gao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://weigao95.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://weigao95.github.io/images/icon_hu10226378635250344412.png</url>
       <title>Wei Gao</title>
       <link>https://weigao95.github.io/author/wei-gao/</link>
     </image>
+    
+    <item>
+      <title>Wei Gao</title>
+      <link>https://weigao95.github.io/author/wei-gao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/author/wei-gao/</guid>
+      <description>&lt;p&gt;I am a EECS PhD &lt;del&gt;candidate&lt;/del&gt; at MIT, working with 
+&lt;a href=&#34;https://groups.csail.mit.edu/locomotion/russt.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Russ Tedrake&lt;/a&gt;. I&amp;rsquo;m generally interested in robotics, with subfields include robot manipulation, planning &amp;amp;&amp;amp; control, 3D vision.&lt;/p&gt;
+&lt;p&gt;I also enjoy writing interesting softwares, for instance 
+&lt;a href=&#34;https://github.com/weigao95/surfelwarp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;surfelwarp&lt;/a&gt; for 3D dynamic reconstruction and 
+&lt;a href=&#34;../files/media/ral20.mp4&#34;&gt;kPAM&lt;/a&gt; for generalizable, dexterous robotic manipulation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+.github.io/publication/rss18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Guided Search Framework in Multiple Model Control</title>
+      <link>https://weigao95.github.io/publication/cdc17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/publication/cdc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Dexterous Manipulation under Object Dynamics Uncertainties</title>
+      <link>https://weigao95.github.io/publication/aim17/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/publication/aim17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increase the Feasible Step Region of Biped Robots through Active Vertical Flexion and Extension Motions</title>
+      <link>https://weigao95.github.io/publication/robotica_17/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://weigao95.github.io/publication/robotica_17/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
